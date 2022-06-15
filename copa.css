@@ -1,0 +1,269 @@
+.headersss {
+    margin-top: -15px;
+    width: 1350px;
+    height: 620px;
+    background-color: #a7a3ee;
+    margin-bottom: 20px;
+
+}
+
+main {
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    background-color: darkorange;
+}
+
+
+.header {
+
+    display: flex;
+    padding-left: 50px;
+}
+
+.h-deatil,
+.h-image {}
+
+.copa {
+
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 19px;
+    color: lavenderblush;
+}
+
+.menubar {}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 60px;
+    padding-top: 25px;
+}
+
+.menu ul {
+    display: flex;
+}
+
+.menu ul li {
+    list-style: none;
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+.login {
+    font-size: 20px;
+    border: 6px solid rgb(240, 188, 0);
+    background-color: rgb(166, 255, 0);
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.login button {}
+
+.login .lg {
+    font-size: 20px;
+}
+
+
+. {}
+
+/* end  */
+.h-deatil {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+
+    font-weight: bold;
+    box-shadow: 10px 10px 13px 10px rgb(11, 11, 11);
+    border: 6px solid white;
+    border-radius: 20px;
+}
+
+.h-deatil .h-t,
+.ankor {
+    color: rgb(39, 253, 203);
+    font-size: 40px;
+    margin-right: 250px;
+    margin-left: 30px;
+
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins&family=Roboto+Mono:wght@500&display=swap');
+
+.h-image img {
+    margin-left: 100px;
+    width: 600px;
+    height: 350px;
+    border: 6px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 13px 10px rgb(11, 11, 11);
+}
+
+.h-deatil .ankor {
+    color: rgb(104, 82, 91);
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(247, 247, 247);
+    padding: 10px;
+
+    border-radius: 20px;
+}
+
+/* end  */
+.all-players {
+    width: 870px;
+    background-color: khaki;
+    padding: 30px;
+
+    margin-left: 180px;
+
+    padding-right: 60px;
+}
+
+.players {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    text-align: justify;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.player .image img {
+    width: 250px;
+    height: 180px;
+}
+
+. {}
+
+.player {
+
+    border: 10px solid rgb(244, 227, 129);
+    box-shadow: 5px 5px 13px 5px rgb(86, 87, 86);
+    margin: 10px 10px;
+    margin-left: 16px;
+
+}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+.image img {
+    width: 300px;
+    height: 256px;
+}
+
+/* end */
+.highlights {}
+
+.high {
+    display: flex;
+
+}
+
+.text {
+    width: 500px;
+    height: 440px;
+    margin-left: 74px;
+    margin-top: 30px;
+    border: 10px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 13px 10px rgb(11, 11, 11);
+}
+
+.text p {
+    font-size: 20px;
+    font-family: cursive;
+    color: beige;
+
+}
+
+.text .h-text {
+    color: aqua;
+    font-size: 35px;
+    font-family: monospace;
+}
+
+.imagee img {
+    width: 500px;
+    height: 450px;
+    margin-left: 130px;
+    margin-top: 35px;
+    border: 10px solid white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 13px 10px rgb(11, 11, 11);
+}
+
+.text .ankorr {
+    color: rgb(30, 251, 255);
+    font-size: 20px;
+    text-decoration: none;
+
+    background-color: rgb(255, 66, 66);
+    padding: 12px;
+
+    border-radius: 20px;
+
+}
+
+.ankorr .fa-solid {
+    margin-left: 10px;
+}
+
+/* end  */
+.finising {
+    margin-top: 50px;
+
+}
+
+.all-part {
+    margin-left: 350px;
+    border: 5px solid wheat;
+    width: 650px;
+    border-radius: 10px;
+    background-color: rgb(211, 255, 240);
+    box-shadow: 5px 5px 13px 14px rgb(23, 22, 22);
+}
+
+.all-part .icon {
+    font-size: 30px;
+    margin-left: 280px;
+
+}
+
+.all-part p {
+    font-size: 30px;
+    margin-left: 190px;
+}
+
+.all-part .fmg {
+    width: 600px;
+    height: 200px;
+
+}
+
+.all-part .icon {}
+
+
+
+
+. {}
+
+. {}
+
+. {}
